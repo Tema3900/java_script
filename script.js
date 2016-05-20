@@ -1,6 +1,6 @@
 'use strict';
 
-alert('Я - javascript');
+alert('I am javascript');
 
 var admin, name;
 name = 'Vasiliy';
